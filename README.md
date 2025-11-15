@@ -1,6 +1,5 @@
 <!-- Perfil de Axcel Christopher McElroy Christian -->
 <p align="center">
-  <img src="https://i.imgur.com/D6GJ0Q3.gif" alt="Fútbol y Código" width="100%">
 </p>
 
 <div align="center">
